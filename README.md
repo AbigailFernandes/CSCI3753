@@ -18,7 +18,7 @@ Friday 10:00 AM - 10:50 AM @ ECCE 141
 
 | Week      | Topic      | 
 | ------------- |:-------------:|
-| Week 1      | [Environment and Setup](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/S19_3753_Anh_Recitation_Week1.pptx) | 
+| Week 1      | [Environment and Setup](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week1.pdf) |
 
 ## Additional References
 
