@@ -6,12 +6,12 @@ This course introduces students to important Operating Systems concepts. The cou
 
 ## TA Office Hours
 
-W 10:00AM - 11:30AM @ CSEL (will be changed later)
-F 12:00PM - 01:30PM @ CSEL (will be changed later)
+Monday 10:15 AM - 12:15 PM @ CSEL (will be changed later)
 
 ## Recitations
 
 Friday 08:00 AM - 08:50 AM @ ECES 112
+
 Friday 10:00 AM - 10:50 AM @ ECCE 141
 
 ## Recitation Slides
