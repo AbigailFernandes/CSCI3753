@@ -24,3 +24,6 @@ Friday 10:00 AM - 10:50 AM @ ECCE 141
 
 [CS Virtual Machine (Fall 2018 edition)](https://foundation.cs.colorado.edu/vm/)
 
+### Credit
+
+Thank you to Ann Nguyen for her lecture material which has been used as a reference.
