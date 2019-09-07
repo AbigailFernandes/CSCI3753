@@ -6,7 +6,7 @@ This course introduces students to important Operating Systems concepts. The cou
 
 ## TA Office Hours
 
-Monday 10:15 AM - 12:15 PM @ CSEL (will be changed later)
+Monday 10:15 AM - 12:15 PM @ ECAE 133 
 
 ## Recitations
 
@@ -19,6 +19,7 @@ Friday 10:00 AM - 10:50 AM @ ECCE 141
 | Week      | Topic      | 
 | ------------- |:-------------:|
 | Week 1      | [Environment and Setup](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week1.pdf) |
+| Week 2       | [Programming Assignment 1 and LKM ](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week2.pdf) |
 
 ## Additional References
 
