@@ -16,10 +16,12 @@ Friday 10:00 AM - 10:50 AM @ ECCE 141
 
 ## Recitation Slides
 
-| Week      | Topic      | 
-| ------------- |:-------------:|
-| Week 1      | [Environment and Setup](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week1.pdf) |
-| Week 2       | [Programming Assignment 1 and LKM ](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week2.pdf) |
+| Week      | Topic      | Code |
+| ------------- |:-------------:|:-------------:|
+| Week 1      | [Environment and Setup](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week1.pdf) | - |
+| Week 2       | [Programming Assignment 1 and LKM ](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week2.pdf) | - | 
+| Week 3      | [LKM Example and Device Drivers](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week3.pdf) | [LKM Example](https://github.com/AbigailFernandes/CSCI3753/tree/master/Code/LKM_Example) |
+
 
 ## Additional References
 
