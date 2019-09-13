@@ -1,0 +1,13 @@
+The program illustrates the usage of LKM. 
+
+1. To compile the module, type
+
+	sudo make -C /lib/modules/$(uname -r)/build M=$PWD modules
+
+2. To insert the compiled module into the running kernel
+
+	sudo insmod hello.ko
+
+3. To remove the module when you’re finished
+
+	sudo rmmod hello
