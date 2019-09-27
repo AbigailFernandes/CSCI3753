@@ -22,7 +22,7 @@ Friday 10:00 AM - 10:50 AM @ ECCE 141
 | Week 2       | [Programming Assignment 1 and LKM ](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week2.pdf) | - | 
 | Week 3      | [LKM Example and Device Drivers](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week3.pdf) | [LKM Example](https://github.com/AbigailFernandes/CSCI3753/tree/master/Code/LKM_Example) |
 | Week 4 | [Programming Assignment 2, Processes & Threads](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week4.pdf) | [Useful Commands](https://github.com/AbigailFernandes/CSCI3753/tree/master/Code/Week4)
-
+| Week 5 | [IPC, Pipes, PA2 Help Session](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week5.pdf) | [IPC Pipe Example](https://github.com/AbigailFernandes/CSCI3753/tree/master/Code/IPC/pipe%20example)
 
 ## Additional References
 
