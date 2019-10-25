@@ -26,6 +26,7 @@ Friday 10:00 AM - 10:50 AM @ ECCE 141
 | Week 6 | [Threads, PThreads, Shared Memory](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week6.pdf) | [PThreads Examples](https://github.com/AbigailFernandes/CSCI3753/tree/master/Code/PThreads)
 | Week 7 | [Programming Assignment 3](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week7.pdf) | - |
 | Week 8 | [Producer Consumer Example](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week8.pdf) | [Producer Consumer Example](https://github.com/AbigailFernandes/CSCI3753/blob/master/Code/PThreads/producer-consumer.c) |
+| Week 9 | [Banker's Algorithm](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week9.pdf) | - |
 
 ## Additional References
 
