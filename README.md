@@ -28,7 +28,7 @@ Friday 10:00 AM - 10:50 AM @ ECCE 141
 | Week 8 | [Producer Consumer Example](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week8.pdf) | [Producer Consumer Example](https://github.com/AbigailFernandes/CSCI3753/blob/master/Code/PThreads/producer-consumer.c) |
 | Week 9 | [Banker's Algorithm](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week9.pdf) | - |
 | Week 10 | [Page Replacement](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week10.pdf) | - |
-| Week 11 | [PA4 and Memory Management](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week11.pdf) | [Memory Management Examoles](https://github.com/AbigailFernandes/CSCI3753/blob/master/Code/memory_management) |
+| Week 11 | [PA4 and Memory Management](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week11.pdf) | [Memory Management Examples](https://github.com/AbigailFernandes/CSCI3753/blob/master/Code/memory_management) |
 
 ## Additional References
 
