@@ -31,6 +31,7 @@ Friday 10:00 AM - 10:50 AM @ ECCE 141
 | Week 11 | [PA4 and Memory Management](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week11.pdf) | [Memory Management Examples](https://github.com/AbigailFernandes/CSCI3753/blob/master/Code/memory_management) |
 | Week 12 | [Thrashing, Working Set Model](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week12.pdf) | - |
 | Week 13 | [Virtual File System, PA4 Help](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week13.pdf) | - |
+| Week 14 | [Virtual File System, PA4 Help](https://github.com/AbigailFernandes/CSCI3753/blob/master/Recitation%20Slides/F19_3753_Abigail_Recitation_Week14.pdf) | - |
 
 
 ## Additional References
